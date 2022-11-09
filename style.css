@@ -9,6 +9,9 @@ body {
   margin: 0;
 }
 
+h1 {
+  color: #d35400;
+}
 .container {
   margin: auto;
   max-width: 800px;
